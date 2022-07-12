@@ -31,7 +31,7 @@ The choice is yours, but it can be a bad idea to host the server directly at hom
 Simply past the code bellow, and it should install the server :
 
 ```bash
-git clone https://github.com/uremom
+git clone https://github.com/fxndone/FO-Drive_Server
 cd fo-drive_server/
 python -m pip install -r requirements.txt
 python setup.py
