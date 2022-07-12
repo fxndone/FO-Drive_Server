@@ -17,4 +17,4 @@ PASS={sha256(passw.encode()).hexdigest()}
 PATH={path}
 DIRECTORY={dirr}/""")
 
-print(f"[+] The url will be : http://yourserverip/{dirr}/ or http://yourserverip:8080/{dirr}/ (depending on if you can or not bind on port 80)")
+print(f"[+] The url will be : http://yourserverip/{dirr}/ or http://yourserverip:8080/{path}/ (depending on if you can or not bind on port 80)")
