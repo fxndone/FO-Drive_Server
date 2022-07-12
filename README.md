@@ -32,7 +32,7 @@ Simply past the code bellow, and it should install the server :
 
 ```bash
 git clone https://github.com/fxndone/FO-Drive_Server
-cd fo-drive_server/
+cd FO-Drive_Server/
 python -m pip install -r requirements.txt
 python setup.py
 ```
