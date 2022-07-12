@@ -1,7 +1,8 @@
 from . import *
 
 from flask import Flask, request, abort, send_file
-from werkzeug.utils import secure_filename
+
+import os
 
 APP = Flask(__name__)
 
